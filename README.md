@@ -2,7 +2,7 @@
 
 Parking App
 
-Design doc @ https://docs.google.com/document/d/1Y4E8HwskhlR1_O_Qcf19MHsJ2ogOV3XvEjYpK1jmzrA/edit?usp=sharing
+Design doc @ https://docs.google.com/document/d/1IE3wvdXqTqCDVwYPpj3_vT_O1JDLYyYiCE8GsKS-7IU/edit?usp=sharing
 
 Build instructions (maven required)
 1. Clone or download repo

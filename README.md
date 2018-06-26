@@ -4,7 +4,7 @@ Parking App
 
 Design doc @ https://docs.google.com/document/d/1Y4E8HwskhlR1_O_Qcf19MHsJ2ogOV3XvEjYpK1jmzrA/edit?usp=sharing
 
-Build instructions 
+Build instructions (maven required)
 1. Clone or download repo
 2. bash$ cd parkapp-master/parkingapp
 3. bash$ mvn package
